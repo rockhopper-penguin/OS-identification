@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 90%;
+    height: auto;
+    margin: auto;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 1.5em;
+}
+
+body h1, #button{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#button input {
+    padding: 10px 20px 10px 20px;
+    font-size: 2em;
+    border: none;
+    background-color: pink;
+}
+
+#result {
+    font-size: 2em;
+    text-align: center;
+    padding: 20px;
+}
